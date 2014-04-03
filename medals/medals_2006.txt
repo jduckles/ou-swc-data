@@ -1,0 +1,27 @@
+Rank,Nation,Gold,Silver,Bronze,Total
+1,Germany (GER),11,12,6,29
+2,United States (USA),9,9,7,25
+3,Austria (AUT),9,7,7,23
+4,Russia (RUS),8,6,8,22
+5,Canada (CAN),7,10,7,24
+6,Sweden (SWE),7,2,5,14
+7,South Korea (KOR),6,3,2,11
+8,Switzerland (SUI),5,4,5,14
+9,Italy (ITA)*,5,0,6,11
+10,France (FRA),3,2,4,9
+10,Netherlands (NED),3,2,4,9
+12,Estonia (EST),3,0,0,3
+13,Norway (NOR),2,8,9,19
+14,China (CHN),2,4,5,11
+15,Czech Republic (CZE),1,2,1,4
+16,Croatia (CRO),1,2,0,3
+17,Australia (AUS),1,0,1,2
+18,Japan (JPN),1,0,0,1
+19,Finland (FIN),0,6,3,9
+20,Poland (POL),0,1,1,2
+21,Belarus (BLR),0,1,0,1
+21,Bulgaria (BUL),0,1,0,1
+21,Great Britain (GBR),0,1,0,1
+21,Slovakia (SVK),0,1,0,1
+25,Ukraine (UKR),0,0,2,2
+26,Latvia (LAT),0,0,1,1
